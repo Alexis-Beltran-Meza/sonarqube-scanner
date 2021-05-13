@@ -1,0 +1,2 @@
+# sonarqube-scanner
+sonarscanner
